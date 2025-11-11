@@ -1,11 +1,5 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  experimental: {
-    turbo: {
-      root: __dirname
-    }
-  }
-}
+const nextConfig = {}
 
 module.exports = nextConfig
 
