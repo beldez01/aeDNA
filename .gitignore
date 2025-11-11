@@ -35,3 +35,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# Legacy/reference files - not part of build
+/*.jsx
+/*.py
+*.pdf
+*.zip
+
